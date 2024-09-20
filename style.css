@@ -792,6 +792,7 @@ h3 {
 .rightComp {
   display: flex;
   z-index: 4;
+  width: 100%;
 }
 
 .rightComp > img:nth-child(2) {
